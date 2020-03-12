@@ -1,0 +1,3 @@
+Required:
+	libv4l-devel
+
